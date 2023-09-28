@@ -67,7 +67,6 @@ h1 {
 }
 /* ボタンにマウスがのっているときのスタイル */
 .btn-area > button:hover {
-  background-color: rgba(220, 0, 0, 1);
   cursor: pointer;
   box-shadow: none;
   transform: scale(0.99, 0.99) translateY(2px);
